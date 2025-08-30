@@ -1,7 +1,8 @@
-### Hi there 👋
+Hi there 👋  
+I'm Elcin — a passionate developer focused on constantly growing in both backend and frontend technologies.
 
-My name is Elcin, and I love programming and I am very passionate about developing myself in this fied consistently, on top of that I am interested in Backend and Frontend.
+🔭 Currently building new features and optimizing the codebase for **BestFlix**, a full-stack movie website.  
+🌱 Recently developed a secure web app where users can log in and manage their movie list with full CRUD operations.  
+👉 You can check it out [here](your-project-link).
 
-- 🔭 I am currently working on [BestFlix](https://best-flix.netlify.app/) by building new features and optimizing the codebase.
-- 🌱 I recently built Full Stack movie web application that allows users to log in securely and add their movies along with applying full
-     - CRUD operations over their movies list, you can check it out [here](https://best-flix.netlify.app/).
+Thanks for visiting!
